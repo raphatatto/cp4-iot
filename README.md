@@ -99,13 +99,7 @@ representam perfis distintos de consumo --- cozinha, aquecimento de
 
 ### Parte 4 (Orange)
 
-1.  Baixar e instalar [Orange Data
-    Mining](https://orangedatamining.com/download/).\
-2.  Importar o dataset `household_power_consumption.txt`.\
-3.  Construir o fluxo com os widgets:
-    -   **CSV File Import → Data Table → Data Sampler → Distribution →
-        Scatter Plot → k-Means**\
-4.  Responder às perguntas baseando-se nos gráficos.
+[⬇️ Download workflow Orange (cp4-iot-pt4.ows)](https://github.com/raphatatto/cp4-iot/raw/main/cp4-iot-pt4.ows)
 
 ------------------------------------------------------------------------
 
