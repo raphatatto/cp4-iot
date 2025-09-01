@@ -8,18 +8,6 @@ utilizando **Python (Parte 3)** e **Orange Data Mining (Parte 4)**.
 
 ------------------------------------------------------------------------
 
-## 📂 Estrutura do Projeto
-
--   `cp4.py` → Código em Python que realiza análise exploratória,
-    regressão, clustering e classificação usando o dataset
-    `energydata_complete.csv`.
--   `README.md` → Este documento, com instruções de entrega, respostas
-    às questões e informações detalhadas dos datasets.
--   `hist_appliances.png`, `serie_appliances_diaria.png`,
-    `pca_scatter.png` → Gráficos gerados na Parte 3.
-
-------------------------------------------------------------------------
-
 ## 📊 Parte 3 --- Appliances Energy Prediction (Python)
 
 ### Dataset utilizado
@@ -76,29 +64,6 @@ baixos, com cauda longa para consumos altos.\
 representam perfis distintos de consumo --- cozinha, aquecimento de
 água, e outros eletrodomésticos.
 
-------------------------------------------------------------------------
-
-## 🚀 Instruções de execução
-
-### Parte 3 (Python)
-
-1.  Instalar dependências:
-
-    ``` bash
-    pip install pandas matplotlib scikit-learn
-    ```
-
-2.  Executar o código:
-
-    ``` bash
-    python cp4.py
-    ```
-
-3.  Resultados: métricas impressas no terminal + gráficos salvos como
-    `.png`.
-
-### Parte 4 (Orange)
-
 [⬇️ Download workflow Orange (cp4-iot-pt4.ows)](https://github.com/raphatatto/cp4-iot/raw/main/cp4-iot-pt4.ows)
 
 ------------------------------------------------------------------------
@@ -113,7 +78,4 @@ representam perfis distintos de consumo --- cozinha, aquecimento de
     diferentes contextos (cozinha, aquecimento de água,
     eletrodomésticos).
 
-------------------------------------------------------------------------
 
-📅 **Entrega final**: inclui `cp4.py`, gráficos gerados e este
-`README.md`.
