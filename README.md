@@ -53,7 +53,7 @@ tiveram dificuldade em prever altos consumos (classe minoritária).
 ------------------------------------------------------------------------
 
 ## 📊 Parte 4 --- Household Power Consumption (Orange Data Mining)
-
+![Imagem Orange](https://github.com/raphatatto/cp4-iot/blob/main/img/imagem.jpg)
 ### Dataset utilizado
 
 -   Arquivo: `household_power_consumption.txt`
